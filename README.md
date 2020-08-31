@@ -1,2 +1,1 @@
-# coursera-course
-coursera-test
+# coursera-test
